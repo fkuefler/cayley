@@ -19,13 +19,9 @@ def generate_cayley_data(max_order):
                             "id": "1_1",
                             "name": "Trivial Group",
                             "order": int(1),
-                            "generators": ["()"],
-                            "nodes": ["()"],
-                            "edges": [{
-                                "source": "()", 
-                                "target": "()", 
-                                "gen_index": int(0)
-                            }]
+                            "generators": ["(1)"],
+                            "nodes": ["(1)"],
+                            "edges": []
                         })
                         continue
 

@@ -4,18 +4,12 @@
     "name": "Trivial Group",
     "order": 1,
     "generators": [
-      "()"
+      "(1)"
     ],
     "nodes": [
-      "()"
+      "(1)"
     ],
-    "edges": [
-      {
-        "source": "()",
-        "target": "()",
-        "gen_index": 0
-      }
-    ]
+    "edges": []
   },
   {
     "id": "2_1",
